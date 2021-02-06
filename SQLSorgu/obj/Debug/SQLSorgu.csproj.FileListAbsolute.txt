@@ -1,0 +1,10 @@
+C:\Users\Batı\source\repos\SQLSorgu\SQLSorgu\bin\Debug\SQLSorgu.exe.config
+C:\Users\Batı\source\repos\SQLSorgu\SQLSorgu\bin\Debug\SQLSorgu.exe
+C:\Users\Batı\source\repos\SQLSorgu\SQLSorgu\bin\Debug\SQLSorgu.pdb
+C:\Users\Batı\source\repos\SQLSorgu\SQLSorgu\obj\Debug\SQLSorgu.csprojAssemblyReference.cache
+C:\Users\Batı\source\repos\SQLSorgu\SQLSorgu\obj\Debug\SQLSorgu.Form1.resources
+C:\Users\Batı\source\repos\SQLSorgu\SQLSorgu\obj\Debug\SQLSorgu.Properties.Resources.resources
+C:\Users\Batı\source\repos\SQLSorgu\SQLSorgu\obj\Debug\SQLSorgu.csproj.GenerateResource.cache
+C:\Users\Batı\source\repos\SQLSorgu\SQLSorgu\obj\Debug\SQLSorgu.csproj.CoreCompileInputs.cache
+C:\Users\Batı\source\repos\SQLSorgu\SQLSorgu\obj\Debug\SQLSorgu.exe
+C:\Users\Batı\source\repos\SQLSorgu\SQLSorgu\obj\Debug\SQLSorgu.pdb
